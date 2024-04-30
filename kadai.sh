@@ -1,6 +1,6 @@
 #!/bin/bash
-student_number=""
-user_name=""
+student_number="23D81NNNNNX"
+user_name="USER_NAME"
 dir_name=$(basename "$(pwd)")
 file_name="kadai${dir_name}$1.cpp"
 cur_date=$(date +'%m/%d')
