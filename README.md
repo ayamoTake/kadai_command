@@ -38,7 +38,7 @@ int main(){
 ## Installation
 (この方法でなくてもできます. )
 ### 1. `kadai.sh` を `kadai`という名前で保存する
-ホームディレクトリに `mycommand/` というディレクトリを作り, その中に `kadai` という名前で子のリポジトリの `kadai.sh` を保存します.
+ホームディレクトリに `mycommand/` というディレクトリを作り, その中に `kadai` という名前でこのリポジトリの `kadai.sh` を保存します.
 
 ### 2. `kadai` ファイルのテンプレートの部分を自分が使いたいものに書き換える
 `kadai` ファイル内の変数 `student_number="23D81NNNNNX"` と `user_name="USER_NAME"` を自分のものに書き換えます. 
