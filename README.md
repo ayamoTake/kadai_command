@@ -8,7 +8,7 @@
 
 ```
 $ pwd
-user/cpp2024/01
+/home/user/cpp2024/01
 $ ls
 $ kadai x
 $ ls
